@@ -1,2 +1,1 @@
-# GRC
-Governance Risk and Compliance Projects
+Cybersecurity Projects
